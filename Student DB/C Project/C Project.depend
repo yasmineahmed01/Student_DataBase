@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1662725055 source:d:\amit\materials\c project\c project\source.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+
+1662690858 d:\amit\materials\c project\c project\header.h
+	<stdbool.h>
+
+1662724923 source:d:\amit\materials\c project\c project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
